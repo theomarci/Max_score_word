@@ -1,5 +1,9 @@
 import random
 import math
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+from collections import Counter
 
 #The objective of my project is to select the word wich has the most occurence in a latin text
 # For resolve this problem, I decide to use the simulated algorithm
@@ -26,7 +30,7 @@ import math
 # return a dictionnary listing all words of my text and his score (the probability of a word appearing multiply times in the text)
 def Latin_text_dictionnary (text) :
     text = text.lower()
-    text = ''.join(["" if i in [ ",", '"', ".", "!", ":", '\n', '?'] else i for i in text])
+    text = ''.join([" " if i in [ ",", '"', ".", "!", ":", '\n', '?', '(', ')', '-'] else i for i in text])
     word_list = text.split(" ")
     words_score_dict = {}
 
@@ -47,23 +51,14 @@ def Pobability(dictionnary) :
         proba_Glossarium[i] = proba_word
     return proba_Glossarium
 
-# def graph_top_words(Glos) :
-#      num = 10
-#      counter = Counter(Glos)
-#      result = dict(counter.most_common(num))
-#      word = list(result.keys())
-#      values = list(result.values())
-#      plt.pie(values)
-#      circle = plt.Circle((0,0), 0.7, color='white')
-#      p = plt.gcf()
-#      print(result)
+
         
 # Now it's time to build the simulated annealing algorithm
 def simulated_annealing(dictionnary, cooling_rate, temperature, iteration) :
         
         current_word = random.choice(list(dictionnary.keys()))
         
-        while temperature > 0 and iteration <= 2000 :
+        while temperature > 0 and iteration <= 2500 :
              current_value = dictionnary[current_word]
              new_word = random.choice(list(dictionnary.keys()))
              new_value = dictionnary[new_word]
@@ -86,4 +81,32 @@ def simulated_annealing(dictionnary, cooling_rate, temperature, iteration) :
 
         return current_word
 
+# I create here a function which return a dataframe
 
+def words_data(Gloss):
+     dataframe = {}
+     words = []
+     in_text = []
+
+     for i in Gloss :
+          word = i
+          value = Gloss[i]
+          words.append(word)
+          in_text.append(value)
+
+     dataframe["Word"] = words
+     dataframe["Number"] = in_text
+
+     df = pd.DataFrame(dataframe)
+
+     return df
+
+def graph_top_words(dataframe) :
+     sorted_value = dataframe.sort_values(by = 'Number', ascending = False)
+     top_20 = sorted_value.head(20)
+     # top_20.plot.barh(x='Word', y='Number', color='red')
+     plt.barh(top_20['Word'], top_20['Number'], color='red')
+     plt.title('The 20 words which have the most repetition', fontstyle='italic', fontweight='bold', color='blue')
+     plt.xlabel('occurences', fontweight='bold', color='blue')
+     plt.ylabel('Words', fontweight='bold', color='blue')
+     plt.show()

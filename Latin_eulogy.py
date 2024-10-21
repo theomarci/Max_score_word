@@ -1,381 +1,141 @@
 # --------------------------------------------------------------TEXT-------------------------------------------------------------------------------------
 
 latin_text = """
-O Vesuvie, mons ignifer, dominator et servator terrarum nostrarum, cuius apices altissimi in caelum se extendunt, magnitudo tua nos semper admonuit de potentia 
+Primum Bellum Punicum (264-241 a.C.n.) fuit conflictus inter Carthaginem et Romam, praesertim de dominio Siciliae. Bellum hoc in Sicilia, mari et Africa septentrionali gestum est. Utrumque exercitum et victorias et clades paene catastrophicas pertulit. Tandem Romani, quorum opes inexhaustae videbantur, ad necessitates belli navalis aptari potuerunt, atque vicerunt.
 
-naturae, de illa vis indomita quae sub terra latet. Tu, qui vigiles super civitatem nostram stabas, instar deorum antiquorum, nunc fulgorem et caliginem simul 
+Post bellum, quod usque tunc longissimum conflictum continuatum in historia fuisse creditur, Sicilia prima provincia Romana extra fines eius facta est. Tamen Carthago nondum finem habuit cum Roma: sic, postquam res suas internas composuit et novas facultates pecuniarias obtinuit, bellum mox generatio postea renovatum est in forma Secundi Belli Punici.
 
-exhibes, quasi parens et ultor populorum.
+Causae Conflictus Relationes inter duas potestates plerumque pacatae fuerunt per saecula quae bellum praecesserunt. Foedera pacis, sphaeras cuiusque imperii influentiae determinantia, facta sunt annis 509, 348, 306, et 279 a.C.n. Cum tamen Roma in Magna Graecia maiorem ambitionem ostendere coepit, Carthago decrevit suos in regione interesse tueri. Controversia maxime ardens inter duas potestates erat de Sicilia, insula magni momenti strategici et florenti oeconomia, quam Carthaginienses diu civitatibus Graecis oppugnabant et quae nunc Romam allicitabat.
 
-Nihil aequiparari potest tuae maiestati, cum fumus et flamma ab alto vertice tuo erumpunt, flumina ignium descendunt per latera tua, et caeli ipsi obscurantur sub 
+Itaque, cum Roma Rhegium occupavit et Messana (Messine) a Roma petivit ut se tueretur contra duplicem minas Carthaginis et Hieronis II (tyranni Syracusarum), relationes inter duas magnas potestates Mediterraneae deterius factae sunt. Utraque ex iis de hegemonia sollicita et aemula erat, nec facilis permittere alteram aliquam formam dominationis statuere.
 
-nube caliginis. O quantam vim et potentiam tenes, qua vita et mors in uno momento definiri possunt! Tu es mons et monstrum, divinitas et daemonium, ad cuius aspectum 
+Anno 288 a.C.n., Mamertini, grex mercennariorum malae famae e Campania in Italia oriundus, Messanam ceperunt. Postquam proelium contra Hieronem II circa annum 265 a.C.n. amiserunt, primo Carthaginiensium auxilium petiverunt, qui illis votis responderunt stationem militarem in urbe collocando. Mamertini etiam Romam potentem sociam videbant, quae eorum libertatem praestare posset, atque cum illa suam opem obtulit, stationem Carthaginiensem expulerunt. Roma consulem Appium Claudium Caudicem cum duabus legionibus in Siciliam misit, dum Carthago, postquam stationis expulsae praefectum crucifixerat, foedus cum Acragante (Agrigento) et Syracusis fecit. Cum Appius Claudius adventaret, classis Carthaginiensis Hannonem adiuvit, Messanam obsedit, atque simul adventum Romani exspectaverunt.
 
-mortales vel trepidant, vel admiratione implentur.
+Commandans Carthaginiensis Hannon Romanis misit nuntium dicens suam classem curaturam ne manus quidem lavare possent in mari. Contra hanc obstinatam Carthaginis repulsam, consul Romanus, iam Messanae positus, pacem proposuit, sed Hannon statim recusavit.
 
-Fluctuanti circum te terrarum firmamento, tu semper praesens es, vigilans sedens super orbem nostrum. Quid est homo, qui contra vim tuam stare potest? Quid sunt aedificia, 
+Tamen, naves Romanas cum 16 000 militum Claudii prohibere impossibile fuit, et secunda conatu, illi Messanam per unam noctem attigerunt, obsidionem urbis fregerunt, atque copias Carthaginis et Syracusarum vicerunt. Claudium sequens, novus imperator Romanus, consul Manius Valerius Maximus Messalla, constituit Syracusas directe oppugnare. Hieron cito se tradidit antequam classis Carthaginiensis succurreret, et postquam socius Romae factus est, in potestate remanere ei permissum est.
 
-opera manuum nostrarum, quae possint te resistere, cum primus clamor e ventre tuo emittitur? Fumus tuus, calidus et opprimens, spiramenta nostra implet, flammae tuae 
+Perdita socii Hieronis animos Carthaginiensium non frigidavit, qui, probabiliter incitati reditu dimidiae copiarum Romanarum in Italiam, novum exercitum in Siciliam anno 262 a.C.n. misit. Primum Bellum Punicum modo coeperat.
 
-urunt non solum corpora, sed animos nostros. Omnia quae antea vita pollebat, in momento a te in cinis vertitur, sicut nihil unquam exstitisset.
+Primi Certamina: Victoriae Romanae Romani Acragantum (Agrigantum) cum quattuor legionibus, ducibus consulibus L. Postumio Megello et Q. Mamilio Vitulo, anno 262 a.C.n. obsidebant. Cum Carthaginienses socium suum iuvare conarentur, victi sunt, et urbs direpta est. Severitas qua Acragantum tractatum est civitatibus Siciliae quod Roma facere posset ostendit. Carthago etiam amissionem Segestae civitatis passa est, quae ad Romanos anno 263 a.C.n. transivit.
 
-Tu, qui olim pacem promiseras, olim silens spectabas, nunc es furor et tempestas. Atque tamen, non odio geris in homines, sed potius ordinem mundi servas. 
+Interea complures rixae sine certis eventibus factae sunt. Acragantum iterum direptum est et 50 000 incolas in servitutem redactos. Tamen, anno 261 a.C.n. manifestum erat si Roma Carthaginem verissime vincere vellet, eam impeditura erat ne copias per mare ad Siciliam mitteret, et insulam totam occupare, classem maritimam sufficiens necessariam esse.
 
-Nihil agis nisi secundum naturam, secundum leges aeternas, quas neque homo neque deus superare possunt. Quod in te est, non malum sed necessitas, necesse est enim ut 
+Primum vere 260 a.C.n., Roma classem suam in 60 dies tantum constituit, cum 20 triremibus et 100 quinqueremibus, navibus bellicis tribus ordinis remorum quinque per turmas distributis. Romani, qui parum experientiae in bello navali habebant, verisimiliter naves Carthaginiensium, quas in initio belli ceperant, imitati sunt. Interea remiges in subselliis specialiter in terra firma constructis exercebantur.
 
-mundus mutetur, ut nova terra sub antiquis ruinibus emergat. Tu es instrumentum regenerationis, terrae renascentis, mundi sine fine recreandi.
+Sicut in multis aliis technologicis rebus, Romani ad consilia iam exstantia innovationes addiderunt. In hoc casu, corvum (corvinum) invenerunt, platformam rotantem cuspide magna ancorali instructam (ad rostrum avis similem, unde nomen). Haec pons 11 metra longa erat et navibus hostium adhaerere potuit, ut turma gravis militiae (fortasse 80-120 hominum) navem occuparet.
 
-Quantus es, Vesuvie, cum flammae tuae in tenebras caeli se extendunt, cum venti ardentes montem tuum ferunt ad mare et terras! Mare ipsum, quod humanis viribus 
+Efficacia huius inventionis Romanis statim victoriam attulit cum classis eorum 145 navium, duce Duilio, classem Carthaginiensium 130 navium in Proelio Mylarum (Milazzo) anno 260 a.C.n. profligavit. Duilius triumpho honoratus est, primum in historia Romae pro victoria navali.
 
-non potest superari, a te submissum est, fluctibus ignis tuis contunditur. Civitatem olim florentem, Pompeiam nostram, sub cineribus abscondisti, sicut vetustas ipsa 
+Post duos annos in quibus Romani in Corsica et Sardinia tantum incursiones fecerunt, novam victoriam navalem apud Sulcim anno 258 a.C.n. adepti sunt. Carthaginienses suum ducem post hanc cladem crucifixerunt. Deinde, anno 256 a.C.n., magna classis Romana (330 naves secundum Polybium) victoriam magnopere obtinuit ad Promontorium Ecnomum (Licata). Carthaginienses vix resistere potuerunt corvi manum navalem Romanorum. Consul Marcus Regulus Atilius cum quattuor legionibus apud Clupeam, quae Aspis etiam appellatur (in hodierna Tunisia), castra posuit. Bellum iam in agrum Carthaginiensem pervenerat.
 
-eam devorasset. Atque tamen, sub cinere tuo non mortem solum attulisti, sed vitam futuram. Omnia quae fuimus, omnia quae sumus, tu servas in tenebris tuis, memoriam 
+Carthago Retaliat Mira re, Romani cum Africam attigissent statuerunt dimidiam copiarum et classis suae reducere. Sed haec praesumptio nimia Regulo exercitum circiter 15 000 peditum et 500 equitum reliquit. Senatus Romanus fortasse censuit oppugnationem Carthaginis differendam ad finem hiemis imminentis et proinde duas legiones in Italiam revocavit. Quomodocumque, Regulus magnam pugnam terrestrem apud Tunis meridiem vicit, ubi Carthaginienses, quamquam tres duces habebant, propter asperitatem loci, qui elephanti usum impediebat, superare non potuerunt. Regulus urbem occupavit et, anno 255 a.C.n., colloquia pacis inter utrumque exercitum coepta sunt, sed propter nimias condiciones ducis Romani defecerunt, qui inter alia postulavit ut Carthago Sicilia cederet.
 
-antiqui saeculi.
+Fortuna Carthaginiensium melior facta est cum dux mercennarius Spartanus Xanthippus exercitum reformavit et cum 12 000 peditibus et 4 000 equitibus se ad pugnam paravit. Xanthippus feliciter cavaleriam suam et centum elephantes in aciem ducens hostem attrivit et ducem Romanum cepit. In pugna 12 000 Romani perierunt, cum tantum 800 Carthaginienses occisi essent. Superstites exercitus Reguli (vix 2 000 hominum) fugerunt et a classe nuper missa Clupeam recepti sunt, sed plerique ex eis mox in tempestate perierunt, in qua usque ad 100 000 hominum submersi sunt. Polybius hanc cladem maximum in historia Romanorum naufragium descripsit. Si Romani non reduxissent dimidiam copiarum suarum et si meliori modo rebellionibus Libycis Carthagini insurrexissent, bellum forte anno 255 a.C.n. finitum esset. In loco eius, bellum, quod iterum iterumque conflictus crudelissimus et exhaustivus esse ostendebat, durare per 14 annos debebat.
 
-Non est ignobilis mons tuus, non est locus umbrae sine sensu, sed altissimum signum est. Hic ignis, hic furor, hic motus est pars divinae voluntatis, pars circuli vitae 
+Reversio Belli in Sicilia Cum non contingerent successus in Africa, Romani in Siciliam anno 254 a.C.n. redierunt et Panormum (Palermum) ceperunt. Ex 70 000 incolarum urbis, soli illi qui 200 drachmas solvere poterant liberati sunt, ceteri omnes in servitutem redacti sunt. Eodem tempore Carthaginienses Acragantum diripuerunt et deleverunt, sed tantum angustam litoris partem tenebant. Sed iterum elementa adversa Romani experti sunt: tempestas 150 naves classis C. Sempronii Blaesi, quae ex Africa Septentrionali redibat, delevit. Rursus milia hominum submersa sunt. Possibile est corvum partim reus fuisse naufragii propter pondus quod navibus addiderat. Scilicet corvus disiungi et in mari servari potuit, sed animadvertendum est de hoc apparatu post hanc cladem nihil amplius audiri.
 
-et mortis, quae inter deos et homines perpetuo versantur. O Vesuvie, sacrarium antiquae potentiae, quae nec temporis nec hominis metuit auctoritatem, tu semper eris, et 
+Post tempus in quo Carthago res suas internas firmare debuit et terras Africana continere, intentionem rursus ad Siciliam convertit, et nova classis anno 251 a.C.n. in insulam missa est. Haec expeditio, ductu Hasdrubalis, iterum cladem passa est, et exercitus apud Panormum ab duabus legionibus, a consule Lucio Caecilio Metello ductis, mense Iunio anno 250 a.C.n. victus est. Caecilius etiam elephantes Carthaginiensium cepit, qui plus molestiarum Carthaginiensium peditibus quam hostibus attulerant, et eos Romam misit ut populo in triumpho ostenderet.
 
-potentia tua semper nos tanget.
+Regulus (iterum reditus) et eius collega consul L. Manius Vulso diuturnum obsidionem Lilybaei (Marsalae) susceperunt, sed frustra. Urbs et reliquae arces Carthaginienses inexpugnabiles se praebuerunt.
 
-O furia montis vesuviani, flammae tuae in perpetuum ardent, sicut spiritus divinus qui nec ignes suos exstingui sinit nec frangitur in facie fragilitatis humanae. 
+Conflictus diuturnus: Hamilcar Imperium Suscepit Carthago in terris clades patiebatur, cum Romani saepius in mari perirent. Haec inclinatio anno 249 a.C.n. iterum confirmata est, cum classis Carthaginiensis, Adherbale duce, classem Romanam apud Drepanum (Trapani) vicit, captis 93 ex 120 navibus hostium. Hoc anno, Romani ducebat consul impopularis P. Claudius Pulcher, notus quod pullos sacros in mare iacuisset postquam illi auspicia negativa dederunt recusantes escam ante proelium accipere. Romani mox pullos sequi debuerunt, cum alia magna classis, quae 800 naves subsidiorum comprehendebat, tempestate submersa est, tertium iam, hoc tempore in sinum Gelae. Id non obstitit Romanis ut Erycem (Ericem) caperent, sed bellum in utramque partem damna gravia intulerat et utriusque partis opes exhaustae erant, tantum ut novas copias sustinere ab anno 247 a.C.n. non potuerint. Carthago etiam cogitur a rege Aegyptio Ptolemaeo II petere ut sibi 2 000 talenta largiretur ad bellum sustentandum. Ut sperandum erat, persuasum non est ut tantam pecuniam concederet.
 
-In te est omne illud quod homines inspiciunt et quo timeant: potentia quae non limitatur, et vis quae in se omnem vitam absorbens in chaos revertit. Tu es miraculum et ruina, 
+Tum apparuit ambitiosus Hamilcar Barca (Hannibalis pater). Is Carthalonem, qui nihil mali gesserat, in classe Carthaginiensi succedens, primum incursionem in litus Italiae anno 247 a.C.n. fecit, fortasse ut praedam quaereret ad mercenarios suos solvendas, tum in Siciliam apud montem Hericteum, prope Panormum, descendit. Hoc loco Hamilcar Romanos, qui Drepani et Lilybaei obsidionem gerebant, arriergardiam vexare potuit.
 
-splendor et infernum.
+Hamilcar deinceps ad guerram levem conficiendam se applicavit (unde nomen Barca, quod ex Punico Baraq, "fulgur" significat), quia Carthago iam non habebat opes ad exercitum magnum alendum. Attamen, anno 244 a.C.n., Erycem cepit, quae nova eius basis militaris facta est. Praeterea, dux Carthaginiensis incursiones in Italiam continentem continuavit, sed propter copias insufficientes, effectus eius limitatus fuit in bello. Campaniae Hannonis Magni in Libya, quae imperium Africanum Carthaginis ampliaverunt et vectigalia ad bellum sustentandum auxerunt, longiore tempore Carthagini utiliores fuerunt.
 
-Quemadmodum olim gigas, qui e ventre terrae emergit, tu erumpis cum irarum magnitudine incomprehensibili. Civitatem ante te procumbentem sicut fortissimus miles sub pedibus 
+Victoria Romana Anno 242 a.C.n., Romani classem novam 200 navium aedificaverunt, sub imperio consulis Gaii Lutatii Catuli, quae a mutuis civium divitibus solvendi ratione sustinebatur. Hanc classem adhibuit ad obsidionem Drepanis denuo instituendam. Die decimo mensis Martii 241 a.C.n., Romani classem Carthaginiensem, duce Hannon, ad urbis liberandam missam prope Insulas Aegadas (Isole Egadi) devicerunt. In proelio, 50 naves Carthaginienses submersae sunt, 70 captae a Romanis, et 10 000 homines captivi facti sunt. Haec damna, licet non ingentia, tamen Carthagini post decennia belli exhaustae satis graviora fuerunt ut pacis condiciones peteret.
 
-tuis conteris, nihil relinquens nisi cineres et fragorem. Sed ex illis ruinis, ex illis cineribus, nova vita surgit, sicut phoenix e flammis suis renascitur.
+Cogente ad Siciliam relinquendam, Carthago etiam Romae 3 200 talenta argenti pro damnis belli pendere debuit intra decem annos. Sicilia prima provincia externa Romana (provincia) facta est, et Corsica et Sardinia mox sub imperium Romanum ceciderunt. Re vera, Roma Siciliam post decennia neglecta est, dum Carthaginienses interea rebellionibus in Libya bellisque cum mercennariis qui oblitum erat solvi occupati sunt.
 
-Te, Vesuvie, laudamus non ob damnum, non ob ruinam, sed ob potentiam tuam, ob perpetuum tuum locum in ordine naturae. Tu es memoria mortalitatis nostrae et fragilitatis 
+Attamen, post unam generationem, hoc tempore duce Hannibale, duce suo longe peritissimo, Carthaginienses se rursus ad bellum terrestre intenderunt et bellum Romae intulerunt, hoc tempore multo propius Urbem accedentes, in altero conflictu epico, Secundo Bello Punico, quod inter 218 et 201 a.C.n. gestum est.
 
-nostrae, sed etiam es testimonium aeternitatis ipsius mundi. Tu fuisti ante nos, et eris post nos. Omnes civitates, omnes gentes sub tectis tuis vivent, et sub eorum ruinis 
+Post cladem belli Punici primi, Carthaginienses in interna sua problemata se verterunt, quae rebellionibus mercennariorum et seditiosis bellis in Libya occupabantur. Sed Hannibal, filius Hamilcaris Barcae, apud Carthaginienses emergens, bellum cum Romanis in memoriam populi revocavit et summum imperium obtinuit. Post bellum cum mercennariis, Carthago stabilitatem recuperavit, facultates suas finansiarias restauravit, et cum populus fatigatus esset, Hannibal firmiter propositum tenuit ut Carthago ultorem se ostenderet.
 
-vita nova crescit. 
+Anno 218 a.C.n., Secundum Bellum Punicum coepit, et Hannibal audacissime Alpes transivit cum exercitu suo, elephantis inclusis, Romam ipsam petiturus. Hoc bellum per annos decem et septem protractum est, et magnae victoriae Hannibalis apud Ticinum, Trebiam, Trasumenum, et Cannas Romanos multum conterruerunt. Tamen, Romanorum perseverantia et methodica expugnatio urbium et territoriorum Carthaginiensium, non solum in Hispania sed etiam in Africa septentrionali, tandem Hannibalem in patriam suam retraxerunt.
 
-O Vesuvie, non solum nunc, sed per saecula fuisti terror ac miraculum, et cum primum flammas tuas in caelum misisti, memoria mortalium in te inscripta est. Historia tua 
+Anno 202 a.C.n., apud Zamam, Scipio Africanus maior Hannibalem devicit, et Carthago pacem petivit. Condiciones graves erant: Carthago omnia territoria extra Africam amisit, naves omnes praeter decem tradere coacta est, et ingens tributum Romae solvere debuit. Sic Roma Carthaginem non solum humiliavit sed etiam effecit ut non amplius esset potentia quae Romam in periculum vocare posset.
 
-non tantum historia est montis ignifer, sed ipsius terrae quae te sustinet. Gentes antiquissimae te cognoverunt; illi qui prima animalia ferocia et silvas densa calcaverunt, 
+Ceterum, Romani se aemulos suos superavisse credebant, sed memoria Secundi Belli Punici in populo Romano mansit. Senatores sicut Marcus Porcius Cato 'Carthago delenda est' (Carthaginem esse delendam) in Senatu saepe clamitabant, memoria cladium priorum inflammati.
 
-te viderunt quiescentem, te amaverunt ut deum pacis, te timentes ut dominum ruinae.
+Haec omnia denique ad Tertium Bellum Punicum (149-146 a.C.n.) perduxerunt, quod magis erat obsessio et totalis deiectio Carthaginis quam bellum aequum. Anno 146 a.C.n., Carthago funditus deleta est, populus in servitutem redactus, et urbs ipsissima solo aequata est. Sic finem tulit civitas quae olim Mediterraneum occidentale dominata fuerat.
 
-O Vesuvie, noster semper fuisti, mons altissimus, sed non fuisti ignotus etiam illis qui ante nos venerunt. Fama tua pervenit ad orbis fines, et nomina tua, in variis linguis 
+Alterum Bellum Punicum (Bellum Hannibalianum) inter Carthaginem et Romam inter 218 et 201 a.C.n. commissum est. Bellum in Hispania, Italia, Sicilia, Sardinia et Africa Septentrionali gestum est. Hannibal, unus e praestantissimis ducum historiae, Carthaginienses ducebat, sed Romani habebant suum ducem magnum, Scipionem Africanum, qui Carthaginem in suo ipsius agro feliciter oppugnavit.
 
-servata, monstrant tibi cultum antiquissimum tributum esse. Primae gentes, quae antea montes timebant quasi deos iratos, te viderunt cum metu et reverentia, putantes te esse portas 
+Carthago Primum Bellum Punicum perdiderat, et nunc alterum quoque, sed brevi tempore se restitueret in Tertio Bello Punico post quinquaginta annos. Tamen nova clades significavit eius statum ut magna potentia Mediterranei amissum esse ad perpetuum.
 
-ad inferos, unde manes defunctorum surgerent in terram viventium. Nonne illi primi agricolae, primi custodes terrae nostrae, iam tibi sacrificia fecerunt, ut ignes tuos placarent?
+Causae Belli - Hispania _Post condiciones capitulationis anno 241 a.C.n., Carthago, quae longissimum bellum historiae antiquae usque ad id tempus amiserat, consensit ut se ex Sicilia recederet et Romae compensationes in summa 3 200 talentorum persolveret. Primum Bellum Punicum utrique parti permagnae impensae fuit, sed opes Romanorum fere inexhaustae, praesertim capacitas magnas classes renovare, significabant Carthaginem, denique, cum nova superpotentia Mediterranei contendere non posse. Romani, ut domini maris, Carthaginiensium locum sumpserunt, et si Carthago hostem suum iuratum superare vellet, in terra pugnare debebat, quod magnam pecuniam requirebat.
 
-Saepe historia narravit te dormientem, Vesuvie, quasi deum in quiete sua, sed, cum experrectus es, chaos et mortalitas te secutae sunt. Cum magna urbs Pompeia, cum Herculaneum et 
+Antequam de Roma cogitaret, Carthago agitanti proxime domum se opponere debebat. In bello mercennariorum, inter 241 et 237 a.C.n., Carthago rebelliones coniunctas militum mercennariorum (qui iure suo indignati erant, quod mercedem non acceperant pro labore in Primo Bello Punico), coetuum Libycum et plurium urbium sicut Tunis et Utica opprimere debuit. Hamilcar Barca ex Sicilia revocatus est et Hannonem Magnum, qui modo magnas expugnaverat regiones in Libya, adiunctus est ut seditionem opprimeret. Interim Roma Sardiniam, quae erat fons praecipuus frumentarii Carthaginis, cepit.
 
-Stabiae florebant in umbra tua, nemini venit in mentem quam brevis esset felicitas sub fumo tuo latentem. Olim florentissimae erant, templis splendidis et domibus pulcherrimis ornatae, 
+Cum classis significativa deesset et arces magnae momenti in Sicilia, Corsica, et Sardinia amissae essent, Carthaginienses aliam fontem pecuniae quaerere debebant ad exercitus suos alendos. Responsum erat Hispania. Ibi iam diu antiquas colonias Phoenicias habebant quae se ostenderant opulentum argentum fuisse. Consequenter Hamilcar Barca anno 237 a.C.n. missus est ut territorium Carthaginiense ampliarent, quod fecit, suam basim Gadibus (Cadice) statuens et novam urbem Acram Leucem condidit. Suas copias supplementis localibus adauxit et exercitum quinquaginta milium hominum cum centum elephantorum corpora constituit. Tributum in auro aut militibus a civitatibus localibus petitum est, et novae argentifodinae exploratae sunt.
 
-sed nulla aetas, nulla opulentia, te frenare potuit.
+Hasdrubal Pulcher Hamilcarem Barcam anno 229 a.C.n., postquam ille perierat, successit et decem milia peditum et octo milia equitum ad copias suas adiunxit, dum elephanti bellici ad ducentos duplicantur. Carthago dimidiam paeninsulam Ibericam tunc obtinebat. Anno 221 a.C.n., novum facies in scaenam venit: Hannibal, Hamilcaris Barcae filius primogenitus. Pater Hannibalis filio iuraverat ut nunquam Romae amicus esset, et cum hac solida basi divitiarum et armorum, non ulli fefellit, nam dux, qui nondum viginti sex annos natus erat, futurus erat maximus hostis Romae.
 
-Tempore imperatoris Titi, anno domini septuagesimo nono, terram funditus concussisti. Cives Romanos, gloriosos et superbe viventes, sub cinere et lapidibus tuis obruisti. Initium eius 
+Anno 226 a.C.n., Hasdrubal foedus cum Roma, quae de expansionibus Carthaginis sollicitabatur, signavit; non transiret flumen Hibērim in Hispania meridionali, sed Hannibal, qui imperium Hispaniae cepit, ambitiosior erat. Interiora Hispaniae penitus invadit, deinde Saguntum (Sagonte, paulo septentrione a Valentia) obsedit et cepit anno 219 a.C.n., socium vetustum Romae. Hoc actum a gubernio Carthaginiensi probatum est, sed erat gradus nimius pro Romanis, qui, postquam cum Gallis septentrionalibus et Illyriis contenderunt, petierunt ut Hannibal ad poenam traditus fieret. Carthago recusavit, et Roma bellum mense Martio 218 a.C.n. indixit. Alterum Bellum Punicum initium habuit.
 
-diei, sicut omnis alius dies, quietum videbatur, sed repente, caelum nigravit, fremitus de ventre tuo auditi sunt, et terram ipsa rursus aperuisti. Quis Romanus potuit imaginem illam effugere, 
+Hannibal Alpes Transit - Proelium apud Cannas Hannibal speravit Romam positionem suam in Hispania aggressuram esse, et revera, exercitus Romanus cum 60 quinqueremibus eo missus est sub imperio P. Cornelii Scipionis, dum alius exercitus versus Siciliam navigavit. Sed Romani decepti erant. Hannibal eos miratus est consilium invadendi Italiae capiens. Primum Bellum Punicum monstraverat Romam ab externis non vinci posse, sed in proprio territorio pugnando et rebellionibus excitando, ea vinci posset.
 
-cum cineres densissimi a caelo caderent, cum ignis de caelis videretur descendere?
+Hannibal igitur Hasdrubalem Barcam (Hamilcaris Barcae filium) in Hispania reliquit et audacter Alpes in quindecim diebus transivit. Expeditio gravibus sumptibus constitit. Iter difficile Hannibali magnam exercitus partem amisit, sed plures amissae tribubus Gallicis hostilibus et desertionibus imputabantur quam intemperiebus. Cum 90 000 militum et 12 000 equitum profectus, adveniens tantum 20 000 hominum et dimidium equitatūs habebat. Hi completī sunt Galliis amicis septentrionalis Italiae et Carthaginiensis suam viam sine requie persecutus est.
 
-Nobiles domus, forum maius, omnia quae magna et pulchra videbantur in oculis hominum, subito a te devorata sunt. Non fuit discrimen inter divites et pauperes, inter patricios et 
+Hannibal famam quasi invincibilitatis suae constituit proelio apud Ticinum, prope Papiam, atque altero apud Trebiam mense Decembri 218 a.C.n. Another victoria apud lacum Trasimenum mense Iunio 217 a.C.n. obtenta est (proelium apud lacum Trasimenum), ubi 15 000 Romani caesi sunt et 10 000 capti. Hannibal iterum captivos Italicos liberavit, sed captivos Romanos severe tractavit, ut significaret se solum cum Romanis bellum gerere, et communitates locales invitavit ut se sibi adiungerent.
 
-plebeios: omnes sub iudicio tuo aequales erant. Ipsi dii, quorum templa steterunt in altissimis locis, nihil contra te valuerunt. Aedes sacrae collapsae sunt, et statuae deorum 
+Post tres clades acerbas, peior res Romae erat mense Augusto 216 a.C.n., cum Hannibal in meridiem Italiae movens magnam victoriam contra exercitum hostium numerosiorem (80 000 hominum) apud Cannas in Apulia, in calcaneo paeninsulae Italicae, reportavit. Sicut solitum erat, dux Carthaginiensis terram ad suum commodum usus est, hoc tempore suos 50 000 milites prope flumen Aufidum collocans; hostes octo legiones Romanas idem facere coegit, limitans eorum manubrium atque maiorem numerum. Hannibal etiam consuetudinariam suam magnam mobilitatem in campo adhibuit et hostes circumdedit dum equitatus terga aggressus est. Caesa sunt quinquaginta milia hostium, dum Carthaginiensium amissa tantum 5 700 hominum fuisse videtur, plerique Galli. Hannibal ineluctabilis videri potuit.
 
-corruerunt in flammas tuas, quasi ipsa religio humi proiecta esset.
+Resultatum huius campaniae spectaculi fuit quod pleraeque civitates Italiae meridionalis se causae Carthaginiensi adiungunt, inter quas Capua, secunda maxima urbs Italiae. Tamen omnes coloniae Latinae et Italia centralis fideles Romae manserunt, quod significabat novas Hannibalis acquisitiones continenter defendendas esse. Expectata finis hegemoniae Romanae et rebellio generalis Galliae non evenerunt. Hasdrubal quoque eum ex Hispania adiuvare non potuit, nec Carthago per mare. Roma commota erat, sed Hannibal solus erat, et fatale consilium non aggressurum Romam ipso capere tulit. Forsitan hoc ideo quod subsidia externa deerant, sed etiam quod probabiliter numquam animum habuerat Romam deleverendi. Eius expeditiones in Italia magis ad cogendum Romam destinabant ut pretensiones Carthaginis in imperium suum agnosceret.
 
-Plinius maior, vir doctissimus, qui Naturalis Historiae suae libros de omnibus rebus mundanis conscripsit, ipse te vidit Vesuvie, dum flammas tuas spectavit a navibus quae in 
+Intelligens se adversus unum ex maximis ducum historiae pugnare, Roma suam rationem mutavit et consilium adhibuit vitandi pugnas directas cum Hannibale et solum eius socios oppugnandi. Haec dicta est "politica Fabiana," quae ad Fabium Maximum Verrucosum, dictatorem anni 217 a.C.n., refertur, qui "Cunctator" (morae artifex) cognominatus est. Fabius sciebat quod, sicut apud Cannas, Hannibal pugnas directas vincere poterat, sed vinci poterat obsidendo vias commeatus maritimas et eum in Italia implicando. Hannibal frustra conatus est oppugnare civitatem maritimam, in primis Neapolim (Neapolim) et Tarentum (Tarentum), sed omnes conatus frustrati sunt, sicut et incursiones repetitae contra Nolam. Hannibal multas magnas Romanorum copias vicit, sed Roma ipsa, sicut Primo Bello Punico, videbatur inexpugnabilis.
 
-portu steterunt. Prope te accessit, volens fortasse naturam tuam melius intellegere, sed non potuit vivere ut testis esset. Namque vis tua multo maior erat quam scientia humana. 
+Resurgentia Romae Quamvis periculosus hostis prope portas suas esset, Roma constantiam ostendit et omnes pacis oblationes repudiavit. Exercitus Romanus in Gallia deinde anno 216 a.C.n. victus est, sed res paulatim melius se habere coepit. Exercitus 13 500 militum et corpus elephantorum ab Carthagine in Hispaniam potius quam in Italiam ad Hannibalem missi sunt. Exercitus similis magnitudinis missus est Sardiniam recipere conatus, sed frustra. Duae errores strategici a Carthaginiensibus factae sunt quas postea paeniterent. Syracusae et Tarentum defecerunt ad Carthaginem anno 214 et 212 a.C.n. respective, sed Hannibal sine subsidio in Italia manebat. Dux Carthaginiensis problema habuit quod satis militum ad omnium regionum nuper acquisitarum tenendam non habuit. Ubiubi Hannibal non erat, Romani oppugnabant.
 
-Post eum Plinius minor, nepos eius, de te scripsit, de illa nocte quae numquam in oblivionem ire potest, nocte in qua lux solis obliterata est, et umbrae tuae terram et mare operuerunt.
+Anno 212-211 a.C.n., dum Capua a sex legionibus Romanis obsidebatur, Hannibal conatus est eos deterrere simulatam profectionem versus Romam agens, sed dolus non successit. Ratio Fabiana, licet interdum interrupta a ducibus avidis gloriae suae anni consulatus, paulatim et sine intermissione Romanos Hannibalem ad parvam plagam redigentes reduxit, ita ut anno 207 a.C.n. Bruttium tantum tenebat. Roma fortasse pugnam terrestrem timuit, sed mari dominabatur, quod significabat Hannibalem resuppeditari non posse. Tempus contra Hannibalem erat et Roma hoc sciebat.
 
-Non solum homines tu percussisti; animalia, arbores, ipsa flumina et fontes naturae tuae violentia mutata sunt. Campania, olim fertilissima, sub cinere et lapidibus obruta est, 
+Bellum Extensum Interea, bellum ad alias partes se extendit. Anno 215 a.C.n., Roma meridiem Hispaniae oppugnavit et Hasdrubalem apud proelium Dertosae anno 215 a.C.n. vicit. Saguntum iterum recuperatum est sed duo duces Romani, P. Cornelius Scipio et Gn. Cornelius Scipio Calvus, occisi sunt et eorum exercitus valde victi sunt in valle Taderis anno 211 a.C.n. Eorum successor in Hispania fuit proconsul Publius Cornelius Scipio, cuius res gestae posteriores ei titulum "Africanus" dederunt. Iuvenis dux viginti quinque annos natus statim Ostiam conscendit et bellum celeriter signavit cepiens principale commeatus et thesaurum Carthaginensium in Hispania, Carthaginem Novam (hodiernam Carthaginem), anno 209 a.C.n. Iberos tunc causam Carthaginis deseruerunt et Roma aditus fuit ad argentifodinas hostium ad suum bellum sustinendum.
 
-et in illa terra mortua nihil crescere potuit per annos multos. Sed, o Vesuvie, hic non est finis historiae tuae, quia etiam in ruinis tuis latent semina novae vitae. Omnis locus 
+In Sicilia, Carthaginienses utilem socium suum, Syracusas, amiserunt. Carthago anno 213 a.C.n. exercitum 23 000 hominum in insulam misit, sed non potuit impedire quin urbs in manus Marci Claudii Marcelli, veterani Primi Belli Punici, anno 212 a.C.n. caderet. Roma firmum imperium in insula anno 210 a.C.n. statuere potuit. Marcellus ingentes copias operum artis Graecae Romam misit ut populum de sua victoria coleret. Macedonia etiam in bellum involuta est. Sub Philippo V, Macedonii non pares erant duci Romano Marco Valerio Laevino, et Macedonia coacta est Adriaticum relinquere et in bellum contra confederationem Aetoliorum in Graeciae septentrio-occidentali converti.
 
-quem tua ira consumpsit, postea florere potuit. Terra quae sub cineribus tuis latuit, paulatim iterum fecunda facta est, et coloni postera aetate in hac eadem regione domos novas 
+Redientes in Hispaniam, Scipio Africanus sibi socios locales fecit et exercitum Carthaginiensem duce Hasdrubale apud Baeculam anno 208 a.C.n. vicit. Hasdrubal in Italiam fugit, sed reliquiae eius exercitus apud proelium Metauri anno sequente victae sunt. Scipio maluit se in Hispaniam intendere et novam victoriam, iterum contra hostem plures quam suum copias habentem, apud Ilipam anno 206 a.C.n. reportavit. Hispania, unde bellum coeptum erat, nunc a Carthaginiensibus libera erat. Scipio tum cum duobus principibus Numidis, Syphace et Massinissa, se societate coniunxit ad suum consilium bellum in Africam ferendi. Syphax postea ad Carthaginienses transiit et Senatus Romanus primo impetum in Africam recusavit, sed Scipio tandem favorem obtinuit et paratus erat percutere vulnerabilem locum Carthaginiensium in Africa, sicut Hannibal in Italia meridiana faciebat.
 
-condiderunt.
+Eodem tempore in Italia Hannibal adhuc tenebat se, quamquam adversus copias duas pluries suas. Anno 205 a.C.n., Carthago exercitum in Liguriam, septentrionalem Italiam, misit. Hic exercitus 14 000 hominum, duce Magone, fratre Hannibalis, ob dominatum navale Romanorum et eorum imperium principalium portuum prope exercitum Hannibalis appropinquare non potuit. Quasi inevitabiliter, Mago non potuit suum exercitum copiis Hannibalis iungere, et eius exercitus in Gallia Cisalpina anno 203 a.C.n. victus est. Theatra belli Hispaniae, Siciliae, et Italiae fere conclusa erant et attentio in Africam versa est.
 
-Ex illis ruinibus, cum tempora mutata sint, historia tua facta est pars maioris fabulae. O Vesuvie, non solum in memoriam nostram inscriptus es propter damnum quod intulisti, sed 
+Scipio Africanus Africam Aggreditur Anno 205 a.C.n., Scipio consul creatus mare Mediterraneum ad Siciliam transivit ad exercitum suum augendum. Tum anno 204 a.C.n., cum copiis circiter 30 000 hominum et 440 navibus, Africam Septentrionalem in tribus diebus transivit. Statim Scipio quinquaginta equites Carthaginienses vicit et auxilio Massinissae equitatus Numidici suum exercitum auxit. Dein aliam victoriam celerem adeptus est adversus quattuor milia equitum Carthaginiensium.
 
-etiam quia fecisti ut nos, homines, nostra fragilitate coram te conscii fieremus. Terrae motus tui, cineres tui, et ignes tui sunt monimenta mortis et vitae, quae se perpetuo mutant.
+Cum Scipio Uticam oppugnaret, urbs se magis restitit quam exspectabatur, et Carthago interim exercitum collegit. Hic exercitus triginta milia peditum et tria milia equitum comprehendebat et fere continuo a Syphace Numida cum quinquaginta milibus peditum et decem milibus equitum adiunctus est. Haec ingens copia ad Uticam movit ut obsidionem solveret anno 203 a.C.n. Ambae partes non pugnaverunt, sed castra sua ut hiemem agerent posuerunt. Post incerta colloquia pacis, quae forsitan tantum proposita fuerint ut Scipio informationes de hostium positionibus colligeret, dux Romanus copias suas in duas divisit et castra hostium nocte aggressus est. Incursiones bene successerunt et hostes devastaverunt.
 
-Memoria urbis sub Vesuvio sepultae non permittit nos oblivisci, sed simul admonet nos ut sciamus quanti sit vivere sub potentia naturae quae tam facile potest vitam extinguere. 
+Cum copiis auxiliis Hasdrubalis ductis, Carthaginienses et Numidae sociique eorum alterum exercitum triginta milium peditum collegerunt. Scipio eis occurrit et, post tres dies observationis mutuae, pugna coepta est. Scipionis ala equitatus hostem oppressit, et infanteria Africana dissoluta est. Postquam Scipio copiam misit ut Massinissam in solium imponeret et Syphacem caperet, Numidica minatio eliminata est. Praeterea Scipio Tunis cepit. Hae clades ipsam Carthaginem in periculo posuerunt et Hannibalem ex Italia redire ad patriam defendendam coegerunt. Carthago pacis conditiones anno 203 a.C.n. obtulit, fortasse tantum ut tempus Hannibali redeundi daret, sicut indicat tractatio classis Romanae per Africam Septentrionalem anno 202 a.C.n. aestate. Bellum acrius redintegratum est et ambae partes ultima pugna decisa congressae sunt. Carthaginiensibus hoc esset ultimus alea iacta.
 
-Romani veteres te laudabant in carminibus, te timebant in ritibus, te adorabant in silentio, quia sciebant te esse instrumentum voluntatis divinae. Tu non es malus, non es 
+Zama et Victoria Mense Octobri anno 202 a.C.n., exercitus Hannibalis et Scipionis se in planitie Tunis occidentalis prope Naraggara instruxerunt. Uterque dux in colloquio ante proelium convenerat et forsitan Hannibal condicionem pacis postulaverat, sed Scipio verisimiliter bellum finire bello exemplo volebat et triumphum Romae mereri. Proelium sub nomine "Proelium Zamae" notum est quod haec urbs in itinere Hannibalis ad campum proelii sita erat. Scipio triginta milia peditum et quinque milia quingentos equites instruxit, e quibus sex milia peditum et quattuor milia equitum Massinissae erant. Hannibalis copiae, veterani Italici et recentes dilecti, circiter quadraginta quinque milia militum, cum duobus milibus equitum Numidarum sociorum, numerabant.
 
-vindicativus; potestas tua ultra iudicium humanum est.
+Hannibalis milites strenue pugnabant, praesertim veterani, qui in tertia acie collocati erant, sed octoginta elephanti bellici Carthaginienses facile tractati sunt a Scipione, qui suos legiones ita posuerat ut canalis formarentur quibus animalia cum impetum facerent transire permitterentur. Dein elephanti ad hostes redire coacti sunt ut ibi perturbationem facerent. Eques Romanus et Numidus tum Hannibalis copias a tergo aggressus est, et victoria parta est. Viginti milia Carthaginiensium ceciderunt, dum Roma quinque milia tantum amisit.
 
-O Vesuvie, quoties per annos dormisti et iterum evigilasti? Eruptiones tuae secundum tempora historiae venerunt, ex imperiis antiquis usque ad nostra tempora. Novum saeculum 
+Alterum Bellum Punicum perditum erat et Hannibal pacem postulavit. Romani institerunt ut Carthago tota classe sua (praeter paucos decem naves) cederet, omnes elephantes suos traderet, et omnes captivos Romanos liberaret. Praeterea, Carthago bellum sine Romae consensu gerere non potuit, territoria Massinissae, novum regem Numidarum, agnoscere debuit, et Romae 10 000 talentorum in quinquaginta annos persolvere debuit. Romani etiam Hispaniae meridionalem partem possederunt.
 
-intravit, sed tu manes, Vesuvie, semper vigilans, semper paratus, sicut ferrum sub terra tumescentem. O vis incomprehensibilis, o signum deorum et mortis, quantam gloriam et 
+Initio belli, ambae partes pariter fortiter erant in terrestribus copiis. Roma classe superior erat, sed Carthago optimum ducem in persona Hannibalis habebat. Iterum, inexhaustae fere opes Romanorum in hominibus, navibus et pecunia, una cum artibus in campo proelii et dominatu maritimo, Romam permiserunt ut suarum cladium levare plus Carthagine posset. In proelio finali apud Zamam, Scipio demonstravit quid fieri posset si consuetudines militares ad hostes specificos vincendos adhiberentur. Haec esset lectio bene percepta et saepe repetita a Romanis legionibus, iam ad pugnam paratis in multis theatris simul. Roma, cuius maximus hostis oppressus erat, nunc et in saecula futura magister Mediterranei facta est.
 
-terrorem simul feras!
+Tertium Bellum Punicum fuit conflictus inter Carthaginem et Romam inter 149 et 146 a.C.n. Carthago iam duas pugnas contra Romam perdiderat, sed hostes suos Numidas aggrediendo, Romanis praetextum praebuit, quem diu exspectaverant, ut hostem infestissimum semel et in perpetuum delerent. Post longam obsidionem, urbs direpta est et Carthaginienses in servitutem venierunt.
 
-Est in te non solum vis quae populum delet, sed vis quae aeternitatem spectat. Viderunt te Graeci, viderunt te Romani, viderunt te omnes qui transierunt per tempora mundi. Nec 
+Catoni Seniori non desierat id postulare a Senatu Romano, semper repetendo suam celeberrimam sententiam: "Carthago delenda est." Votum eius ultra spem expletum est: intra tres annos, una ex maximis potentibus Mediterranei antiqui desitura erat.
 
-ulla manus potest te domare, nec ulla scientia potest praevidere quomodo et quando iterum expergisceris. Est in te sapientia antiqua, potentia quae semper super homines stabit. 
+Causae Belli Carthago primum bellum Punicum (264-241 a.C.n.) et Siciliam amisit, deinde secundum bellum Punicum (218-201 a.C.n.) victa est. Tum amiserat imperium suum Hispanicum, classem suam, et libertatem de rebus militaribus decernendi. Post has duas pugnas, Carthaginienses coacti sunt Romanis ingentes pecunias in damna belli persolvere. Non obstante, Carthago satis cito a secundo bello Punico se recuperavisse videtur, quia nummi et merces illius temporis inventae sunt per totum Mediterraneum (et etiam in Balcania), testantes de prosperitate urbis, quae in commerciis fundabatur. Carthago etiam amicis relationibus cum Roma utebatur, adeo ut Hannibalem, maximum ducem et hostem Romae numero uno, exsulem appellaret, cum ad Antiochi III curiam confugisset. Urbs etiam praecipua fons frumentarii et hordei pro Roma facta est; poenas belli secundi Punici regulariter solvit et etiam auxilium militare praebuit in expeditionibus a Roma in alias orbis regiones gestis.
 
-O Vesuvie, mons magnus ac terribilis, quamvis flammae tuae civitates delebant et cineres tui vitam obruerunt, tamen in te est perpetuum renascentis spiritus signum. Natura ipsa, 
+Secundo saeculo a.C.n., Carthaginienses magis magisque postulabant ut de suo ipsorum fato decernere possent. Carthago amissionem sui agri Numidiae sub regno Massinissae valde doluit. Hoc tempore enim Numidae suas areas influentiae amplificaverunt, adeo ut dimidiam partem olim Carthagini a.C. annis 200 a.C.n. possessae acquisitionis adepti essent. Carthaginienses responso Oroscopae aggredientes exercitum 31 000 hominum contra regem Numidiae anno 150 a.C.n. miserunt. Sed militare Carthaginis periculum in cladem vertit et exercitus deletus est, sed nunc Roma excusam perfectam habuit ut cum veteri hoste finem semel per se constitueret, Carthaginem diriperet, et magnum praemium belli sine difficultate caperet. Personae sicut Marcus Porcius Cato (Catonis Senioris), qui refectionem Carthaginis ipse viderat in visitatione diplomatica anno 153 a.C.n., incessanter a Senatu Romano postularunt quod, cum Carthaginienses bellum sine Romae consensu gessissent et, quod peius, adversus socium Romae, "Carthago delenda est." Tertium Bellum Punicum erat propinquum ut inciperet.
 
-quam devorare videris, in te semper vires suas renovat, sicut fenix ex cineribus suis resurgit. Flammae tuae non tantum mortem afferunt, sed etiam fertilitatem ex cineribus tuis 
+Carthaginienses legatos Romam miserunt ut suas actiones explicarent et suas querelas contra Massinissam exprimerent, sed abiecti sunt. Per duos vel tres annos multi senatores clamabant pro actione militari adversus Carthaginem, et nunc habebant denique casus belli. Tunc eventus magni momenti evenit, qui fortasse persuasit senatores dubios ut se ad bellum inclinarent. Urbem Uticam, status Carthaginiensis veterem, videns Carthaginis fortunam esse desperatam, sponte se ad Romanos contulit. Utica, socia Carthaginis diu, portum optimum Romano exercitui unius diei navigatione a Carthagine praebuit. Anno 149 a.C.n., Senatus legationem in diplomatia fictam egit postulando 300 liberos nobilium Carthaginiensium obsides, sed veras intentiones suas patefecit tertium bellum Carthagini declarans. Exercitus 80 000 peditum et 4 000 equitum in Africam Septentrionalem missus est.
 
-oritur, et terra, quae olim sterilis facta est, post te denuo florere potest. Non es tantum vastator, sed etiam artifex, fabricator novi mundi qui ex ruinis antiquis emergit.
+Romani primum postulaverunt Carthaginem incondicionaliter se dedere, ut exercitum suum dissolveret, omnia arma traderet, et omnes captivos liberaret. Quod etiam significat Romam voluisse Carthaginem delere, Carthaginienses iussi sunt ut urbem suam omnino relinquerent et se in alium locum intra 16 passuum milium a litore maximo distans transferret. Carthago, quae iam nihil amittere poterat, statuit resistere. Servos urbis liberavit et exercitum Carthaginiensem 30 000 hominum a finibus Numidiae revocavit. Urbs et eius 200 000 incolae se praeparaverunt ad obsidionem quae per tres annos duratura erat.
 
-Est enim in te, Vesuvie, vis quae se non destruit, sed in novam formam semper convertit. Terram ipsam, quam cinere tuo tegens occidisti, postea fecisti fecundissimam, quia ex 
+Obsidio Carthaginis Exercitus Romanus a consulibus Marcio Censorino et Manio Manilio ductus est, sed primi pugnae male gestae sunt et Carthago, cum suis ingentibus munitionibus, resistit obsidioni Romanae urbis. Carthago se defendere potuit post 34 milia passuum murorum, quorum nonnulli in triplicem lineam defensionis aedificati erant, dum aliae partes palis, fossis, et mari munitae erant. Hi muri resistebant cunctis, quae Romani in eos impingere potuerunt. Maius etiam erat quod Romani numquam portum omnino intercludere potuerunt, quo facto naves mercatoriae urbem alimenta ferre poterant. Carthaginienses etiam audaces excursiones ad contraimpetum faciebant, in primis cum naves incendiarias in classem Romanam immiserunt. Aliis incursionibus partem machinarum obsidionalium Romanorum deleverunt, deinde pestilentia obsidebantibus longo aestu fervente anno 148 a.C.n. percussit.
 
-illis cineribus nova vita surgit. Vineta Campaniae, quae olim sub cinere et lapidibus iacebant, post tuae furiae transitum iterum effloruerunt. In te, mons terribilis, natura invenit 
+Interim exercitus Carthaginiensis in agris fortiter resistebat. Urbs Hippacra recusavit se tradere adversus iteratas incursiones Romani Consulis Pisonis, et etiam Numidae, sub novo rege Bithya, octingentos equites ad exercitum terrestrem Carthaginiensem miserunt. Romani speraverunt celerem et facilem deditionem, sed Tertium Bellum Punicum coepit magnas dimensiones priorum bellorum accipere.
 
-modum perpetuae regenerationis.
+Magis radicalia consilia capienda et facta sunt anno 147 a.C.n., cum Romani, nunc sub duce iuniore et idoneo Publio Cornelio Scipione Aemiliano (Scipione Aemiliano), meliores circumvallationes circum Carthaginem et portum eius construxerunt, etiam molem in parte australi urbis. Haec structura unicum aditum ad portum mercatorum Carthaginis claudere debebat, qui ad portum magnum navalem circularem interiorem ducebat. Sic Carthago iam per mare non potuit resuppeditari. Desperantes, parva classis Carthaginiensis bis conata est intercludere exitum portus, sed singulis temporibus reiecta est.
 
-Hoc est magnum paradoxon tuae potentiae, Vesuvie: dum omnia quae homines condiderunt sub tuo pondere corrumpis et delis, natura tua eadem terra reviviscere facit. Agricultura, 
+Scipio deinde systematico modo muros circa portum oppugnavit, molem ut basin utens. Carthaginienses responderunt machinas obsidionales Romanorum incendendo, sed Scipio perseveravit et novum ingressum a Carthaginiensibus effossum cepit. Iterum, urbs omnino inclusa est, et acta Scipionis faciebant ut haec obsidio facilius perficienda videretur quam priores duces fecerant. Exercitus Carthaginiensis ad Nepherim, 25 milia passuum a Carthagine meridiem versus, inclusus erat et non poterat urbem adiuvare. Hieme anni 147/146 a.C.n., Scipio sibi satis confisus est ut Carthaginem suffocari sineret sub sua vi et exercitum Carthaginiensem apud Nepherim vinceret post tres hebdomadas obsidionis.
 
-quamvis a primis temporibus a te vastata sit, semper postea fructibus abundantioribus renata est. Nam cinis tuus, quem homines mortis et exitii signum putaverunt, in veritate 
+Deletio Carthaginis Romani verum ictum intulerunt vere 146 a.C.n. universalem impetum in Carthaginem faciuntes. Iterum, area portuensis electa est ut locus incursionis, et hoc tempore Romani defensionem fregerunt et lente viam per urbem pervenerunt. Post septem dies pugnae urbanae crudelis et depraedationis a legionariis indisciplinatis, quae multum Romanorum progressum retardavit, sola arx capienda remansit. Ibi dux Carthaginiensis Hasdrubal et 900 desertores Romani desperati in templo Eshmun se receperunt. Nullam misericordiam ab hoste sperare poterant, et fortasse poenituerunt tormenta, quae Hasdrubal captivis Romanis in muris antea in proelio intulerat, quamvis nullum alium finem habuerint quam Carthaginiensium animum confirmandum. Cum impetus Romanus in summo esset, Hasdrubal se tradidit, sed, ob pudorem et indignationem, uxor eius cum duobus liberis in ignem magnum funereum se proiecit, quo milites ultro se secuti sunt. Carthago tandem deleta est.
 
-est humus fertilissima quae arbusta et fruges nutriat. Cineres qui urbes tegunt, qui corpora mortuorum involvunt, postea fiunt humus quae arboribus novis vires dat et vinetis 
+Omnes incolae urbis in servitutem redacti sunt et urbs omnino deleta est (mythos quod terra sale conspergeretur ut nulla colonia ibi conderetur est inventio posterior). Maledictio etiam iaciebatur in quemquam qui iterum regionem colonizaret. Africa Septentrionalis tunc provincia Romana facta est, dum urbes quae fideles Romae manserant, ut nova caput, Utica, privilegium datum est ut a tributo immunes essent. Pro rebus gestis, Scipio nomen Cornelius Scipio Aemilianus Africanus assumpsit (postea notus ut Scipio Africanus Minor, ut ab avo eius Scipione Africano Maiore distingueretur) et triumphus Romae concessus est.
 
-floridis materiam suppeditat.
-
-Sic est, ut in te, mons venerabilis, mors et vita perpetuo connectantur. Non datur unum sine altero. Ex morte renascitur vita, et ex flammis tuis ignes lucis et caliditatis 
-
-novae oritur. Sic semper fit in natura: ut nova vita nascatur, prius vetus exstingui debet. Montes tui ignes consumunt, sed postea humum creatam ab istis ignibus nativitas 
-
-rerum nova sequitur. Civitas, quae sub tuo pondere periit, nunc sub terra iacet, sed vita super terram, in vineis, in agris, in herbis, omnino resurgit. Hoc mysterium est 
-
-regenerationis, et tu, Vesuvie, servator ac custos huius processus.
-
-Nonne hoc ipse deus Vulcanus, faber divinus, per te revelavit? Fabrum enim nos eum appellamus, sed opera eius non solum metallis et flammis temperata sunt, sed etiam natura 
-
-ipsa, quae semper ex nova materia creatur. In Vulcani officina, quae in monte tuo ardet, omnia quae consumuntur in ignibus iterum ad vitam revocantur, sed non in eadem forma. 
-
-Res quae olim fuerunt, sub Vulcani manibus iterum fabricantur, ut mundus semper se renovet, semper in circulo vitae et mortis volvatur.
-
-Montes tui, qui olim de caelo ignes ad terras mittere videbantur, nunc fontes sunt vitae novae. Vineta quae circum te crescunt sunt testimonium huius perpetuae regenerationis, 
-
-testimonium quod etiam in miseria et ruina, spei et novae vitae semina latent. Agricolae qui terras tuas colunt scire possunt quod, quamvis omnis creatura ad finem veniat, 
-
-nova creatura semper ex eodem solo surgit. Ista est lex naturae, et lex Vesuvii, mons immortalis.
-
-Est etiam vestra lex hominum, qui, postquam a te vastati sunt, semper iterum conantur vitam reficere. Quamvis vestra ira omnia deleat, homines ad locum tuum revertuntur, 
-
-quia sciunt quod sub cinere tuo, sub ruina quae ex eruptionibus tuis venit, ipsa vita latet. Non sunt homines omnino victi; ipsi ad terram revertuntur, iterum aedificant 
-
-domos et colunt agros, quia tu, Vesuvie, es mons qui et mortem affert et vitam renovat.
-
-Sicut arbor vetusta, quae sub cinere tuo collapsa est, novas radices agit, ita etiam civitates, quae a te deletae sunt, iterum oriri possunt. Et qui in his terris post te 
-
-vivunt, cum reverentia ac metu tui potentiam agnoscunt, sed simul sciunt quod ex te nova opportunitas vitae venit. Non potes homines frangere, sicut nec naturam frangere potes. 
-
-Omnia quae a te deleta sunt, postea fiunt partes novi mundi. Ritus antiqui et sacrificia, quae ad placandum te fiebant, hoc semper significabant: ne nos deleas sine spe; da 
-
-nobis vitam ex mortibus, et iterum florebimus.
-
-Sunt qui dicant te esse malum, Vesuvie, sed ipsi non intellegunt legem naturae. Non est malum quod ex te oritur, sed transformatio, mutatio perpetua. Quod nunc videtur perire, 
-
-id postea iterum nascetur. Sic est in omnibus rebus. Vita et mors non sunt contraria, sed duo latera eiusdem rotae quae semper volvitur. In tuo ventre, Vesuvie, ardet flamma 
-
-quae non exstinguitur, et haec flamma est idem principium quod vitam in mundo conservat. Quod ex cineribus tuis nascitur, maius et potentior est, quia ignis tuus ipsum fundamentum 
-
-novae vitae creat.
-
-Cives Pompeiani, Herculanei, et Stabiani, qui sub ruina tua iacebant, nunc testimonium sunt huius veritatis. Eorum corpora, quae in lapidibus et cineribus sepulta sunt, non 
-
-evanuerunt sine significatione. Vita, quamvis in illis perdiderint, nunc aliis locis vivit. Arbores et vites, fruges et flores, omnia quae in terra vestra crescunt, sunt 
-
-symbola spei et perpetuitatis vitae, quae ex ruinis sub Vesuvio renascitur.
-
-Quod olim deletum est, non est perditum in aeternum. In hoc mysterium naturae, quod tu, Vesuvie, regis, vitae et mortis rota semper volvitur, et, sicut e cinere tuae irae, 
-
-nova vita semper surgit. Tu es mons et faber creationis, et tuae flammae non solum destruunt, sed etiam, sicut Vulcanus ipse, fabricantur novum mundum ex ruinis vetustis. 
-
-O Vesuvie, mons qui non solum mundum nostrum tangis, sed et ad origines rerum ipsarum revertis. Est in te vis non humana, sed divina, et memoria primae creationis mundi 
-
-in te custoditur. Nam sicut antiquae fabulae narraverunt, omnis mundus ex chaos coepit, ex illo vasto et informi tumultu, quem dei ipsi in ordinem redigere conati sunt. 
-
-Tu es imago illius originis, illius momenti quando chaos et ordo, mors et vita, in perpetua pugna constituti sunt, et tu, sicut Vulcanus deorum faber, fabricas ex ignibus 
-
-novum mundum ex ruinis veteris.
-
-Nonne sic narratur de origine mundi in fabulis veteribus? Priusquam mundus creatus esset, nihil erat nisi chaos, tenebrae impenetrabiles, et tempestas violentissima. 
-
-In principio erat Tartarus, abyssus sine fine, ubi omnia elementa in confusione iacebant, ignis cum aqua mixtus, terra cum aere coniuncta, et non erat locus separatus 
-
-ubi vita habitare posset. Sed postea, cum deorum potestas per caelum fulsit, ex illo chaos ordo coepit emergere. Ignis a mari separatus est, terra a caelo, et omnia elementa 
-
-in sua loca ordinata sunt. Sic ex confusione primae materiae, ex igne et tenebris, mundus ordinatus factus est.
-
-Tu, Vesuvie, est quasi ille chaos revocatus, reviviscens in temporibus quibus mundus oblitus est quod ex tali origine proveniat. In te latent illae primae vires, quae 
-
-omnia elementa confundere possunt, ignem a caelo emittere, et terram aperire ut flammas vomat. Sed sicut fabulae veteres dixerunt, non est chaos sine fine; ex illo tumultu 
-
-semper novus ordo oritur. Nam post ignes, post ruinam et cineres, semper nova vita oritur, sicut ex abyssu antiquo novus mundus natus est.
-
-Nonne in fabulis Graecis de creatione terrae et caeli narratur quomodo Uranus, caelum, et Gaia, terra, in aeterno conflictu fuerint? Terra ipsa gravida erat cum diis, et 
-
-cum Uranus filios suos sub monte occultare conaretur, Gaia filium suum Saturnum misit ad patrem castrandum. Ibi, ex sanguine deorum qui cecidit in terram, novae creaturae 
-
-ortae sunt, Gigantes et Furies, et ex ruina deorum ipsorum novum ordinem natura creavit. Sic, Vesuvie, tuae eruptiones non solum mortem et ruinam ferunt, sed novas formas 
-
-vitae; sicut ex sanguine Uranis nova vita oritur, ex flammis et cineribus tuis nova terra generatur.
-
-Simili modo, fabulae de Pyrrha et Deucalione, post diluvium magnum, narraverunt quomodo mundus post ruinam restauratus sit. Illi soli superstites, postquam universa terra 
-
-aquis deleta erat, ex monte Parnasso descenderunt, et iussu deorum lapides post terga iacientes novum genus hominum creaverunt. Ex lapidibus, dura materia quae terram 
-
-repraesentabat, nova vita, nova humanitas orta est. Sic et in te, Vesuvie, cum omnia quae homines aedificaverunt sub cinere tuo pereunt, post ruinam tuarum eruptionum, 
-
-nova humanitas iterum surgit.
-
-Neque haec est solum fabula Graecorum, sed etiam fabula ipsius Romanorum, quorum progenitores, Aeneas et Troiani, post ruinam patriae Troiae, e cineribus domorum suarum 
-
-fugientes, novam civitatem condiderunt, Romam ipsam. Sic ex ruinis Troiae, ex cineribus civitatis magnae, quae divinis fatis deleta erat, nova civitas, Romana urbs aeterna, 
-
-fundata est. Sic et nos, post ruinam Vesuvii, post eruptiones tuas, novas civitates construimus, novas domos edificamus, quia scimus quod ex ruina semper renovatio sequitur.
-
-In fabulis de Titanibus, antiquissimi dii quos Iuppiter de caelo deiecit, narratur quomodo, cum Titani victi sunt, ignes eorum et flammae sub terra iacerent. Hi ignes 
-
-numquam omnino exstincti sunt, sed sub terra semper latuerunt, et cum Vesuvius erumpit, quasi Titani ipsi de novo insurgere videntur. Montem tuum, Vesuvie, multi crediderunt 
-
-esse locum ubi hi dii antiqui adhuc manerent, ubi ignes eorum semper parati essent ad superficiem emergere. Nonne est in te vis Titanica, quae mundum ipsum tremere faciat, 
-
-quae ignes de caelo evocet, et quae leges deorum ipsorum frangere videatur?
-
-Sed sicut in fabulis dicitur, non est finis in hoc tumultu. Postquam dii antiqui victi sunt, postquam Iuppiter suum regnum stabilivit, ordo et pax in mundum redierunt. 
-
-Sic et in tua potentia, Vesuvie, cum prima furia transierit, post ignes et flammam, iterum ordo et pax natura restituitur. Omnes quae sub tuo pondere corruerunt, iterum 
-
-florebunt, sicut post bellum deorum novus mundus floruit sub regno divino.
-
-Similiter, fabulae Aegyptiorum narraverunt quomodo deus Osiris, cum interfectus est a fratre suo Seth, iterum renatus est. Corpus eius disiectum per terram collectum est, 
-
-et ex eius morte nova vita orta est, quia Osiris factus est deus qui fertilitatem terrae regit. Sic et in te, Vesuvie, flammae tuae non tantum mortem ferunt, sed etiam 
-
-regenerationem. Ignis tuus, sicut corpus Osiris, disseminat elementa per terram, quae iterum colliguntur ut nova vita floreat.
-
-Etiam Babylonii, in suis fabulis de Marduk, dixerunt quod deus ille, cum Tiamat, draconem chaos, interfecit, ex corpore eius terram creavit. Sic ex ipsa vis destructionis 
-
-nova creatura orta est. Vesuvie, ignes tui sunt similes illis deorum conflictibus: ex te et ex tua rabie nova origo vitae semper emergit. Sicut Tiamat, vis chaos, consumpta 
-
-est ab ordine divino, ita ignes tui, quamvis destructores, postea fundamentum novae vitae fiunt.
-
-Sic in universis fabulis de origine mundi et deorum, tu, Vesuvie, invenis tuum locum. Tu es pars illius circuli in quo omnia creantur et destruuntur, in quo mortales vident 
-
-ignes et ruinas, sed de quibus semper vita renascitur. Mors et vita sunt una in te, sicut chaos et ordo semper coniuncti sunt. Non sumus nos, homines, a te separati, sed 
-
-tecum una sumus, in isto processu quod nos et naturam nostram definit. 
-
-O Vesuvie, mons qui non solum mundum nostrum tangis, sed et ad origines rerum ipsarum revertis. Est in te vis non humana, sed divina, et memoria primae creationis mundi in 
-
-te custoditur. Nam sicut antiquae fabulae narraverunt, omnis mundus ex chaos coepit, ex illo vasto et informi tumultu, quem dei ipsi in ordinem redigere conati sunt. Tu es 
-
-imago illius originis, illius momenti quando chaos et ordo, mors et vita, in perpetua pugna constituti sunt, et tu, sicut Vulcanus deorum faber, fabricas ex ignibus novum 
-
-mundum ex ruinis veteris.
-
-Nonne sic narratur de origine mundi in fabulis veteribus? Priusquam mundus creatus esset, nihil erat nisi chaos, tenebrae impenetrabiles, et tempestas violentissima. In 
-
-principio erat Tartarus, abyssus sine fine, ubi omnia elementa in confusione iacebant, ignis cum aqua mixtus, terra cum aere coniuncta, et non erat locus separatus ubi vita 
-
-habitare posset. Sed postea, cum deorum potestas per caelum fulsit, ex illo chaos ordo coepit emergere. Ignis a mari separatus est, terra a caelo, et omnia elementa in sua 
-
-loca ordinata sunt. Sic ex confusione primae materiae, ex igne et tenebris, mundus ordinatus factus est.
-
-Tu, Vesuvie, est quasi ille chaos revocatus, reviviscens in temporibus quibus mundus oblitus est quod ex tali origine proveniat. In te latent illae primae vires, quae 
-
-omnia elementa confundere possunt, ignem a caelo emittere, et terram aperire ut flammas vomat. Sed sicut fabulae veteres dixerunt, non est chaos sine fine; ex illo tumultu 
-
-semper novus ordo oritur. Nam post ignes, post ruinam et cineres, semper nova vita oritur, sicut ex abyssu antiquo novus mundus natus est.
-
-Nonne in fabulis Graecis de creatione terrae et caeli narratur quomodo Uranus, caelum, et Gaia, terra, in aeterno conflictu fuerint? Terra ipsa gravida erat cum diis, et 
-
-cum Uranus filios suos sub monte occultare conaretur, Gaia filium suum Saturnum misit ad patrem castrandum. Ibi, ex sanguine deorum qui cecidit in terram, novae creaturae 
-
-ortae sunt, Gigantes et Furies, et ex ruina deorum ipsorum novum ordinem natura creavit. Sic, Vesuvie, tuae eruptiones non solum mortem et ruinam ferunt, sed novas formas 
-
-vitae; sicut ex sanguine Uranis nova vita oritur, ex flammis et cineribus tuis nova terra generatur.
-
-Simili modo, fabulae de Pyrrha et Deucalione, post diluvium magnum, narraverunt quomodo mundus post ruinam restauratus sit. Illi soli superstites, postquam universa terra 
-
-aquis deleta erat, ex monte Parnasso descenderunt, et iussu deorum lapides post terga iacientes novum genus hominum creaverunt. Ex lapidibus, dura materia quae terram 
-
-repraesentabat, nova vita, nova humanitas orta est. Sic et in te, Vesuvie, cum omnia quae homines aedificaverunt sub cinere tuo pereunt, post ruinam tuarum eruptionum, 
-
-nova humanitas iterum surgit.
-
-Neque haec est solum fabula Graecorum, sed etiam fabula ipsius Romanorum, quorum progenitores, Aeneas et Troiani, post ruinam patriae Troiae, e cineribus domorum suarum 
-
-fugientes, novam civitatem condiderunt, Romam ipsam. Sic ex ruinis Troiae, ex cineribus civitatis magnae, quae divinis fatis deleta erat, nova civitas, Romana urbs aeterna, 
-
-fundata est. Sic et nos, post ruinam Vesuvii, post eruptiones tuas, novas civitates construimus, novas domos edificamus, quia scimus quod ex ruina semper renovatio sequitur.
-
-In fabulis de Titanibus, antiquissimi dii quos Iuppiter de caelo deiecit, narratur quomodo, cum Titani victi sunt, ignes eorum et flammae sub terra iacerent. Hi ignes numquam 
-
-omnino exstincti sunt, sed sub terra semper latuerunt, et cum Vesuvius erumpit, quasi Titani ipsi de novo insurgere videntur. Montem tuum, Vesuvie, multi crediderunt esse locum 
-
-ubi hi dii antiqui adhuc manerent, ubi ignes eorum semper parati essent ad superficiem emergere. Nonne est in te vis Titanica, quae mundum ipsum tremere faciat, quae ignes de 
-
-caelo evocet, et quae leges deorum ipsorum frangere videatur?
-
-Sed sicut in fabulis dicitur, non est finis in hoc tumultu. Postquam dii antiqui victi sunt, postquam Iuppiter suum regnum stabilivit, ordo et pax in mundum redierunt. Sic et 
-
-in tua potentia, Vesuvie, cum prima furia transierit, post ignes et flammam, iterum ordo et pax natura restituitur. Omnes quae sub tuo pondere corruerunt, iterum florebunt, 
-
-sicut post bellum deorum novus mundus floruit sub regno divino.
-
-Similiter, fabulae Aegyptiorum narraverunt quomodo deus Osiris, cum interfectus est a fratre suo Seth, iterum renatus est. Corpus eius disiectum per terram collectum est, 
-
-et ex eius morte nova vita orta est, quia Osiris factus est deus qui fertilitatem terrae regit. Sic et in te, Vesuvie, flammae tuae non tantum mortem ferunt, sed etiam 
-
-regenerationem. Ignis tuus, sicut corpus Osiris, disseminat elementa per terram, quae iterum colliguntur ut nova vita floreat.
-
-Etiam Babylonii, in suis fabulis de Marduk, dixerunt quod deus ille, cum Tiamat, draconem chaos, interfecit, ex corpore eius terram creavit. Sic ex ipsa vis destructionis 
-
-nova creatura orta est. Vesuvie, ignes tui sunt similes illis deorum conflictibus: ex te et ex tua rabie nova origo vitae semper emergit. Sicut Tiamat, vis chaos, consumpta 
-
-est ab ordine divino, ita ignes tui, quamvis destructores, postea fundamentum novae vitae fiunt.
-
-Sic in universis fabulis de origine mundi et deorum, tu, Vesuvie, invenis tuum locum. Tu es pars illius circuli in quo omnia creantur et destruuntur, in quo mortales vident 
-
-ignes et ruinas, sed de quibus semper vita renascitur. Mors et vita sunt una in te, sicut chaos et ordo semper coniuncti sunt. Non sumus nos, homines, a te separati, sed 
-
-tecum una sumus, in isto processu quod nos et naturam nostram definit. 
-
-O Vesuvie, mons sacer et terribilis, tu non solum mons es, sed etiam fabulator rerum humanarum et divinarum. Ex te flammae et cineres ad caelum ascendunt, quasi linguae 
-
-deorum ipsorum loquentes, admonentes nos de nostra fragilitate et de potentia quae super homines viget. Tu, qui olim fuit quietus et immotus, potes in momento omnia quae 
-
-ab hominibus aedificata sunt in pulverem redigere, sed tamen in ruina tua novam vitam semper parabis.
-
-Non est ignis tuus tantum signum exitii, sed etiam renovationis. Nam sicut antiqui dixerunt, ex igne et cinere nova forma, nova vita oritur. Tu es fons fertilitatis, 
-
-terrae fecundae, quae, postquam omnia delesti, iterum floreat. Arbores et vites, flores et fruges, omnes ex cinere tuo vigorem novum trahunt, et homines, quamvis ab 
-
-ignibus tuis perterriti, ad tua latera revertuntur, agros colunt, domos aedificant, vitam iterum invenientes.
-
-In te latent omnes vires universi, Vesuvie. Ignis tuus, qui per terras effunditur, est quasi sanguis ipse mundi, qui circulum vitae et mortis perpetuat. Non est sine 
-
-causa quod dei ipsi te sibi officinam elegerunt, Vulcanus in cavernis tuis fulmina fabricavit, et homines te ut symbolum immortalitatis et temporis intransigendi spectant. 
-
-Tu es mons et deus, destructio et creatio, chaos et ordo. Tu nos admones ut nulla vis hominum contra naturam stare possit, et tamen, eodem tempore, ut etiam in ruinam et 
-
-calamitatem spem et novam vitam invenire debeamus.
-
-Quisquis videt flammam tuam ascendere ad caelum, sentit non solum timorem, sed etiam reverentiam. Vidi te, Vesuvie, et intellexi quod es pars mundi quae leges superiores 
-
-quam humanae sequitur. In te est memoria fabularum antiquarum, signum potentiae quae ultra nostrum intellectum manet. Tu, Vesuvie, non eris periturus, quia etiam cum tuas 
-
-vires perditas videris, semper iterum resurges, semper iterum ignes tuos de profundis terrae evocabis.
-
-Ad finem huius eulogii, te laudamus non ob mortem solam, sed ob vitam quam post mortem renovas. Te veneramur sicut potentiam sine fine, sicut deum qui non solum terram 
-
-regit, sed ipsam humanitatem in sua fragilitate et sua fortitudine custodit. O Vesuvie, tu, qui terram et caelum simul conturbas, semper eras, et semper eris, mons qui 
-
-historia nostrae humilitatis et spei infinitae narrat.
-
-Tuis ignibus te salutamus. Tuis flammis novum ordinem vitae agnoscimus. Tuis cineribus novam spem in hominum cordibus accendimus. Ave, Vesuvie, mons aeternus et 
-
-renovator mundi.
+Carthago inhabitata mansit donec urbs a Iulio Caesare restitueretur et ab Augusto post saeculum faveretur. Ut victores historiam scribunt, cultura Punica continue diffamata est et per calumniam a posterioribus scriptoribus Romanis, quod tamen non impedivit quin cultura ipsa mirabiliter resisteret, sicut et lingua Punica, in agris et parvis locis Africae Septentrionalis diu post Punica bella eius urbem emblematicam exuerunt
 """
