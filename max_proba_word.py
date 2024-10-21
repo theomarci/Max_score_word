@@ -104,9 +104,8 @@ def words_data(Gloss):
 def graph_top_words(dataframe) :
      sorted_value = dataframe.sort_values(by = 'Number', ascending = False)
      top_20 = sorted_value.head(20)
-     # top_20.plot.barh(x='Word', y='Number', color='red')
      plt.barh(top_20['Word'], top_20['Number'], color='red')
-     plt.title('The 20 words which have the most repetition', fontstyle='italic', fontweight='bold', color='blue')
+     plt.title('The 20 most frequently repeated words', fontstyle='italic', fontweight='bold', color='blue')
      plt.xlabel('occurences', fontweight='bold', color='blue')
      plt.ylabel('Words', fontweight='bold', color='blue')
      plt.show()

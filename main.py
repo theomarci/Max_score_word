@@ -14,7 +14,7 @@ def main() :
 
 the_best_word, word_dataframe = main()
 print(f"""
-      I translate three texts in latin with ChatGPT about Punic war.
+      I translate three texts in latin with ChatGPT about Punic wars.
       After the undesirable tokens eliminations, like space and coma, I have {len(word_dataframe)} words.
       This is the Dataframe of the text vocabulary :
 
