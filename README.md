@@ -28,7 +28,21 @@
     <li>
       <h4>Find a latin text :</h4>
       <p>
-        The first thing to do before starting to code is to find a text in latin. For that, I use chatgpt to help me to translate the text that I chose. I starting to create, with the chatgp help, an eulogy about volcano. After a lot of repetition to write the perfect text with 50 000 words, with no conclusive results, I decided to   change the direction. 
+        The first thing to do before starting to code is to find a text in latin. For that, I use chatgpt to help me to translate the text that I chose. I starting to create, with the chatgp help, an eulogy about volcano. After a lot of          repetition to write the perfect text with 50 000 words, with no conclusive results, I decided to change the direction. I looked for a text about the punic wars, opposing Roma against Carthago during the ancient time. I found a            website describing the three wars. Then, a translate it in latin with chatGPT. 
+      </p>
+      <h6>This is an extract of the text :</h6>
+      <blockquote>
+        Primum Bellum Punicum (264-241 a.C.n.) fuit conflictus inter Carthaginem et Romam, praesertim de dominio Siciliae. Bellum hoc in Sicilia, mari et Africa septentrionali gestum est. Utrumque exercitum et victorias et clades paene           catastrophicas pertulit. Tandem Romani, quorum opes inexhaustae videbantur, ad necessitates belli navalis aptari potuerunt, atque vicerunt.
+        Post bellum, quod usque tunc longissimum conflictum continuatum in historia fuisse creditur, Sicilia prima provincia Romana extra fines eius facta est. Tamen Carthago nondum finem habuit cum Roma: sic, postquam res suas internas          composuit et novas facultates pecuniarias obtinuit, bellum mox generatio postea renovatum est in forma Secundi Belli Punici.
+        Causae Conflictus Relationes inter duas potestates plerumque pacatae fuerunt per saecula quae bellum praecesserunt. Foedera pacis, sphaeras cuiusque imperii influentiae determinantia, facta sunt annis 509, 348, 306, et 279 a.C.n.         Cum tamen Roma in Magna Graecia maiorem ambitionem ostendere coepit, Carthago decrevit suos in regione interesse tueri. Controversia maxime ardens inter duas potestates erat de Sicilia, insula magni momenti strategici et florenti         oeconomia, quam Carthaginienses diu civitatibus Graecis oppugnabant et quae nunc Romam allicitabat.
+        Itaque, cum Roma Rhegium occupavit et Messana (Messine) a Roma petivit ut se tueretur contra duplicem minas Carthaginis et Hieronis II (tyranni Syracusarum), relationes inter duas magnas potestates Mediterraneae deterius factae           sunt. Utraque ex iis de hegemonia sollicita et aemula erat, nec facilis permittere alteram aliquam formam dominationis statuere.
+        Anno 288 a.C.n., Mamertini, grex mercennariorum malae famae e Campania in Italia oriundus, Messanam ceperunt
+      </blockquote>
+    </li>
+    <li>
+      <h4>First function, clean the data :</h4>
+      <p>
+        I started my project by organizing my data that I can use. My function take one parameter, the text. Then, I remove all special character like comma or dot. After that, I split the text. The split method, in python, store items in a list. Moreover, I add each elements of my new list in an empty dictionnary without words equal or inferior of 3 letters, with a loop if the current word don't exist in the dictionnary. For each words, I 
       </p>
     </li>
   </ol>
