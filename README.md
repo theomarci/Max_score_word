@@ -42,8 +42,17 @@
     <li>
       <h4>First function, clean the data :</h4>
       <p>
-        I started my project by organizing my data that I can use. My function take one parameter, the text. Then, I remove all special character like comma or dot. After that, I split the text. The split method, in python, store items in a list. Moreover, I add each elements of my new list in an empty dictionnary without words equal or inferior of 3 letters, with a loop if the current word don't exist in the dictionnary. For each words, I 
+        I started my project by organizing my data that I can use. My function take one parameter, the text. Then, I remove all special character like comma or dot. After that, I split the text. The split method, in python, store items in a list. Moreover, I add each elements of my new list in an empty dictionnary without words equal or inferior of 3 letters, with a loop if the current word don't exist in the dictionnary. For each words, I count the frequency of appearence and add as the value of the current key. Finally, I return the dictionnary.
       </p>
+    </li>
+    <li>
+      <h4>Calculate probability</h4>
+      <p>
+        At this step, I create a new function that calculate for each keys the probability of the word. So, I create a new dictionnary, loop into my previous dictionnary and calculate the new value. In fact, At the moment where I write this line, I think to delete this function and calculate the value in the prévious function. Perharps for the next time.
+      </p>
+    </li>
+    <li>
+      <h4>Simulated annealing algorithm function</h4>
     </li>
   </ol>
 </div>
