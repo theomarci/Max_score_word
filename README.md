@@ -18,8 +18,17 @@
 <div>
   <h2 align="center">What is the simulated annealing algorithm ?</h2>
   <p>
-    Good question ! The simulated annealing algorithm is an algorithm inspired by the smelting work. It's a probalistic optimization algorithm which can escape the local minimum or optimum. It can be use as a research algorithm and it is more effective than the high climbing algorithm (my previous project).
+    Good question ! The simulated annealing algorithm is an algorithm inspired by the smelting work. It's a probalistic optimization algorithm which can escape the local minimum or optimum to find the global maximum or minimum. It can be use as a research algorithm and it is more effective than the high climbing algorithm (my previous project).<br>
+    This algorithm take a several parameter : first I need a set. In second position, I have the cooling rate and next the starting temperature, usually we choose 100. Finally we have the iteration, it begins at 0.<br>
+    For each iteration, we select a random point in the set and compare it with the previous point. If the new point is higher than the previous point then the new point become the new reference point, in case of the global maximum search. But if the new point is smaller than the previous one, so I need to calculate the acceptance : 
   </p>
+  <h5 align="center">acceptance (for a global maximum)= exponantial((new_value - previous_value) / current_temperature)</h5>
+  <h5 align="center">acceptance (for a global minimum) = exponential((previous_value - current_value) / current_temperature)</h5>
+  <p>
+    Next, I chose a random value between 0 and 1. Then I compare this value with the acceptance. If the random value is smaller than the acceptance, so the worst solutions is accepted. Before the end, I calculate the new temperature :
+  </p>
+  <h5 align="center">temperature = current_temperature * cooling_rate</h5>
+  <p>Finally, the function loop until the temperature is equal to 0 or the number of iteration reach 2000, this two condition are my objective. This is the simulated annealing algorithm.</p>
 </div>
 <hr>
 <div>
@@ -53,6 +62,10 @@
     </li>
     <li>
       <h4>Simulated annealing algorithm function</h4>
+      <p>
+        Now, it's time to code the famous simulated annealing algorithm, the core of my project. This step, for me, was not easy. I started by a recursive function. It's work but if there are more of 1000 recursion then I have an error. I enconter an another problem with the reccursion : I don't retrive any values out of my function. So, to resolve this problems, I did some research on the web and found a solution using the while loop. I recreate entirely my function to implement a  while loop. Hurra ! it's work ! <br>
+        The goal of my simulated annealing function is to return the word that appears the most time in the text.
+      </p>
     </li>
   </ol>
 </div>
