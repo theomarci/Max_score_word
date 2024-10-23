@@ -37,7 +37,7 @@
     <li>
       <h4>Find a latin text :</h4>
       <p>
-        The first thing to do before starting to code is to find a text in latin. For that, I use chatgpt to help me to translate the text that I chose. I starting to create, with the chatgp help, an eulogy about volcano. After a lot of          repetition to write the perfect text with 50 000 words, with no conclusive results, I decided to change the direction. I looked for a text about the punic wars, opposing Roma against Carthago during the ancient time. I found a            website describing the three wars. Then, a translate it in latin with chatGPT. 
+        The first thing to do before starting to code is to find a text in latin. For that, I use chatgpt to help me to translate the text that I chose. I starting to create, with the chatgp help, an eulogy about volcano. After a lot of          repetition to write the perfect text with 50 000 words, with no conclusive results, I decided to change the direction. I looked for a text about the punic wars, opposing Roma against Carthago during the ancient time. I found a            website describing the three wars. Then, I translate it in latin with chatGPT. 
       </p>
       <h6>This is an extract of the text :</h6>
       <blockquote>
@@ -63,9 +63,30 @@
     <li>
       <h4>Simulated annealing algorithm function</h4>
       <p>
-        Now, it's time to code the famous simulated annealing algorithm, the core of my project. This step, for me, was not easy. I started by a recursive function. It's work but if there are more of 1000 recursion then I have an error. I enconter an another problem with the reccursion : I don't retrive any values out of my function. So, to resolve this problems, I did some research on the web and found a solution using the while loop. I recreate entirely my function to implement a  while loop. Hurra ! it's work ! <br>
-        The goal of my simulated annealing function is to return the word that appears the most time in the text.
+        Now, it's time to code the famous simulated annealing algorithm, the core of my project. This step, for me, was not easy. I started by a recursive function. It's work but I encountered two problems : if there are more of 1000 recursion then I have an error and I cannot return the final value when I print my function, on my terminal I see "None", so I can't use the value out of my function. To resolve my problems with the reccursive function, I did some research on the web and found a solution using the while loop. Then, I recreate entirely my function to implement a  while loop. Hurra ! it's work ! <br>
+        The goal of my simulated annealing function is to return the word that appears the most time in the text. If you want more precision about this algorithm you can see my little explanation in the previous part, or see my commentary in my code file.
       </p>
+    </li>
+    <li>
+      <h4>Creation of the dataframe of my Dictionnary</h4>
+      <p>
+        When I finish my first goal for this project, I Thought that will be more interested if I have a data that I can visualize and I can learn about datavisualisation with matplotlib. My first problem is what is the story that I want to tell with my data ? Answer this question, help me to define boundary, select the right data and chart. It's not an easy task but I rise the challenge !<br>
+        I started to think to display my data with scatter plot, then with a donut, and also with a scatterd point with different size. I didn't thought, at this moment, what data I want to show, I had not selected any values yet. With some discussion with my school mate, I started to define some boundaries, and selected some data. I search some tip, larn on the web and finally I chose to select 20 data representing the 20 words frequently appear in the text and visualize it with horizontal bar. But before built the chart, I need to transform my dictionnary into a dataframe.<br>
+        To do that I chose pandas a python librairy for data manipulation. So, I created a function that return a dataframe of the 20 words with the most occurences.
+      </p>
+    </li>
+    <li>
+      <h4>Building my horizontal bar chart</h4>
+      <p>
+        At this step, I write a new function that display My graph adding tittle and description for abssissa and ordinate.
+      </p>
+    </li>
+    <li>
+      <h4>The final result</h4>
+      <p>On my terminal :</p>
+      <img src=".\src\output.png" align="center">
+      <p>This my chart :</p>
+      <img src=".\src\Graph_word.png" align="center">
     </li>
   </ol>
 </div>
