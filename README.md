@@ -108,3 +108,22 @@
     </li>
   </ol>
 </div>
+<hr>
+<div>
+  <h2 align="center">Installation</h2>
+  <ol>
+    <li>
+      Do a fork of my repo
+    </li>
+    <li>
+      on your terminal, move to the venv folder
+    </li>
+    <li>
+      Then, write the command : Scripts\activate
+    </li>
+    <li>
+      Now, you can run my project with this command : python3 .\main.py. That's it !
+    </li>
+  </ol>
+</div>
+
