@@ -27,7 +27,7 @@ from collections import Counter
 
 # ------------------------------------------------------------Functions--------------------------------------------------------------------------------
 
-# return a dictionnary listing all words of my text and his score (the probability of a word appearing multiply times in the text)
+# return a dictionnary listing all words of my text and his score (the probability of a word appearing multiple times in the text)
 def Latin_text_dictionnary (text) :
     text = text.lower()
     text = ''.join([" " if i in [ ",", '"', ".", "!", ":", '\n', '?', '(', ')', '-'] else i for i in text])
