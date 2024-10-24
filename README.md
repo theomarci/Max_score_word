@@ -138,8 +138,9 @@
 <di>
   <h2 align="center">Conclusion :</h2>
   <p>
-    What I conclude at the end ? I learn a lot and it's just the beginning but even if My code isn't perfect I think that I have passed a very good time on my project. However, There are some points to improve in my code : first I can simplify my code base and finally I need to change some parameters, test each changes a lot, caluclate the total of success when my programm find the highest value in comparison to the total to have the success rate. Then I compare between each paramters and select the one wich have the best rate.
+    At the end, what I conclude? I learn a lot and it's just the beginning but even if My code isn't perfect I think that I have passed a very good time on my project. However, There are some points to improve in my code : first I can simplify my code base and finally I need to change some parameters, test each changes a lot, calculate the total of success in comparison to the total to have the success rate. Then I compare between each paramters and select the one wich has the best rate.
   </p>
 </di>
+<hr>
 <img src=".\src\New_text.png">
 
